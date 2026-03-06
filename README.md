@@ -9,7 +9,7 @@ The notebook demonstrates a complete data science workflow including exploratory
 Linear regression provides a transparent and interpretable baseline model that helps explain the relationship between housing features and property prices.
 
 ---
-
+ 
 ## Dataset
 
 The dataset contains information about residential properties and includes variables commonly used in real estate price modeling.
